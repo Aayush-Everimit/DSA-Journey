@@ -1,5 +1,5 @@
 # DSA-Journey
-My Data Structures &amp; Algorithms journey in Java â pattern-based problem solving, interview preparation and daily practice.
+My Data Structures &amp; Algorithms journey in Java Ã¢ÂÂ pattern-based problem solving, interview preparation and daily practice.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -7,6 +7,7 @@ My Data Structures &amp; Algorithms journey in Java â pattern-based problem
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +20,12 @@ My Data Structures &amp; Algorithms journey in Java â pattern-based problem
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
