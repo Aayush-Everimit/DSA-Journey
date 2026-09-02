@@ -1,5 +1,5 @@
 # DSA-Journey
-My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ pattern-based problem solving, interview preparation and daily practice.
+My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ pattern-based problem solving, interview preparation and daily practice.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -26,6 +26,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -35,5 +36,10 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
