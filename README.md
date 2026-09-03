@@ -7,6 +7,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
@@ -27,16 +28,19 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | ------- |
 | [0001-two-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
