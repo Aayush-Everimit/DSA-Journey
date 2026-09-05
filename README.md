@@ -12,6 +12,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 ## Math
@@ -38,6 +39,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0075-sort-colors](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -49,6 +51,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0169-majority-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -64,11 +67,13 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -91,6 +96,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -99,6 +105,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -116,4 +123,8 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
