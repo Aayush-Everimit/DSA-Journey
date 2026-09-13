@@ -39,6 +39,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0036-valid-sudoku](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
@@ -140,4 +141,12 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
