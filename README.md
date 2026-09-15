@@ -28,6 +28,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0027-remove-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0014-longest-common-prefix](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
