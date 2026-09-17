@@ -26,6 +26,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -45,6 +46,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0018-4sum) |
@@ -175,6 +177,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 ## Union-Find
