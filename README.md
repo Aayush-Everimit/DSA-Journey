@@ -38,6 +38,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
+| [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
+| [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -180,6 +183,7 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 | [0011-container-with-most-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## Union-Find
 |  |
 | ------- |
@@ -188,4 +192,8 @@ My Data Structures &amp; Algorithms journey in Java ÃÂÃÂÃÂÃ
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Timsort
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
