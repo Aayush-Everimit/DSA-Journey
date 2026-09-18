@@ -1,36 +1,32 @@
-import java.util.HashMap;
+import java.util.Arrays;
 
 class Solution {
     public int numRescueBoats(int[] people, int limit) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int numberBoat = 0;
-
-        for (int wt : people) {
-            map.put(wt, map.getOrDefault(wt, 0) + 1);
-        }
+        Arrays.sort(people); 
         
-      
-        for (int wt : people) {
-            
-            if (map.getOrDefault(wt, 0) == 0) {
-                continue;
+        int noBoat = 0;
+        int left = 0;                 
+        int right = people.length - 1; 
+        while (left <= right) {
+            if (left == right) {
+                noBoat++;
+                break;
             }
             
-            map.put(wt, map.get(wt) - 1);
-            numberBoat++; 
-   
-            int diff = limit - wt;
+            int dif = limit - people[left];
             
-           
-            while (diff > 0) {
-                if (map.getOrDefault(diff, 0) > 0) {
-                    map.put(diff, map.get(diff) - 1);
-                    break;
-                }
-                diff--; 
+            if (dif >= people[right]) {
+               
+                left++;
+                right--;
+                noBoat++;
+            } else {
+                
+                right--; 
+                noBoat++;
             }
         }
         
-        return numberBoat;
+        return noBoat;
     }
 }
