@@ -1,24 +1,33 @@
-import java.util.ArrayDeque;
-class Solution 
-{
-    
+class Solution {
     public int trap(int[] height) 
     {
+        int left = 0;
+        int leftMax = 0;
+        int rightMax = 0;
+        
         int totalWater = 0;
-        Deque<Integer> stack = new ArrayDeque<>();
-        for(int i = 0 ; i < height.length; i++){
-            while(!stack.isEmpty() && height[i]>height[stack.peek()]){
-                int bottomInd = stack.pop();
-                if(stack.isEmpty()){
-                    break;
+        int right = height.length-1;
+        while(left<right){
+            if(height[left] < height[right])
+            {
+                if(height[left] > leftMax){
+                    leftMax=height[left]; 
                 }
-                int leftIndex = stack.peek();
-                int width = i - leftIndex-1;
-                int boundedHeight = Math.min(height[leftIndex] , height[i]) - height[bottomInd];
-                totalWater += width*boundedHeight;
+                else{
+                    totalWater += leftMax-height[left];
+                }
+                left++;
             }
-            stack.push(i);
-        }
+            else{
+                if(height[right] > rightMax){
+                    rightMax = height[right];
+                }
+                else{
+                    totalWater+= rightMax-height[right];
+                }
+                right--;
+            }
+        }   
         return totalWater;
     }
 }
