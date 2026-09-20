@@ -1,9 +1,9 @@
 # DSA-Journey
-## 🚀 My DSA Journey in Java
+## My DSA Journey in Java
 
 I am actively mastering **Data Structures & Algorithms** using Java, focusing on **pattern-based problem solving**, intensive interview preparation, and daily consistent practice.
 
-### 🎯 Core Focus Areas
+### Core Focus Areas
 * **Pattern-Based Learning:** Cracking problems by identifying core patterns (Sliding Window, Two Pointers, Backtracking, etc.) rather than memorizing solutions.
 * **Daily Consistency:** Committing to the **1-2-3 Rule** (Reviewing, Solving 1 Medium problem, and Optimizing code daily).
 * **Interview Readiness:** Building optimal, production-grade Java solutions with strict adherence to time and space complexities.
