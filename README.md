@@ -27,6 +27,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 ## Math
@@ -49,6 +50,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0189-rotate-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## Floyd's Cycle Finding Algorithm
@@ -109,6 +111,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
@@ -221,6 +224,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
