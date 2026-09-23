@@ -51,6 +51,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## Floyd's Cycle Finding Algorithm
@@ -84,6 +85,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0229-majority-element-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -101,6 +103,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0229-majority-element-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## String
@@ -155,6 +158,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -217,6 +221,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 ## Timsort
 |  |
 | ------- |
@@ -229,6 +234,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0219-contains-duplicate-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
 | ------- |
