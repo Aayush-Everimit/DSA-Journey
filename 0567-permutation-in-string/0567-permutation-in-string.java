@@ -7,25 +7,26 @@ class Solution
         if (s1.length() > s2.length()) {
             return false;
         }
+        int[] freqArr = new int[26];
+        int[] windArr = new int[26];
 
-        char[] str1 = s1.toCharArray();
-        Arrays.sort(str1);
-
-        char[] str2 = s2.toCharArray();
-        int k = str1.length;
-
-        for (int prev = 0; prev <= str2.length - k; prev++) {
-            char[] temp = new char[k];
-            for (int i = 0; i < k; i++) {
-                temp[i] = str2[prev + i];
-            }
-            
-            Arrays.sort(temp);
-
-            if (Arrays.equals(str1, temp)) {
+        for(int i = 0 ; i < s1.length() ; i++){
+            freqArr[s1.charAt(i)- 'a']++;
+            windArr[s2.charAt(i)- 'a']++;
+        }
+        for(int i = s1.length() ; i<s2.length(); i++){
+            if(matches(freqArr , windArr)){
                 return true;
             }
-        }    
-        return false;
+            windArr[s2.charAt(i)-'a']++;
+            windArr[s2.charAt(i-s1.length()) - 'a']--;
+        }
+        return matches(freqArr , windArr);
+    }
+    private boolean matches(int[] a, int[] b){
+        for(int i = 0; i<26;i++){
+            if(a[i] != b[i]) return false;
+        }
+        return true;
     }
 }
