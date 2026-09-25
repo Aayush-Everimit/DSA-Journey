@@ -84,6 +84,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0217-contains-duplicate](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
@@ -159,6 +160,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -235,6 +237,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0076-minimum-window-substring](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
@@ -246,4 +249,16 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
