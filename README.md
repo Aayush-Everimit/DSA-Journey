@@ -88,6 +88,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0304-range-sum-query-2d-immutable](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -245,6 +246,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -261,4 +263,8 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
