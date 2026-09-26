@@ -1,41 +1,31 @@
-import java.util.Stack;
+class Solution {
+    public boolean isValid(String s) {
+        char[] chars = s.toCharArray();
+        
+        if (chars.length % 2 != 0) return false;
+        
+        char[] stack = new char[chars.length];
+        int top = -1;
 
-class Solution 
-{
-    public boolean isValid(String s) 
-    {
-        boolean result = false;
-        Stack<Character> stack = new Stack<>();
-        
-        
-        for(int i = 0 ; i < s.length() ; i++ ){
-            
-            if(s.charAt(i) == '(' || s.charAt(i) == '[' || s.charAt(i) == '{' ){
-                stack.push(s.charAt(i));
-            }
-            
-            if(s.charAt(i) == ')' || s.charAt(i) == ']' || s.charAt(i) == '}' ){
-                try{
-                    if(s.charAt(i) == ')'){
-                        if(stack.peek() != '('){return false;}
-                        stack.pop();
-                    }
-                   
-                    if(s.charAt(i) == ']'){
-                        if(stack.peek() != '['){return false;}
-                        stack.pop();
-                    }
-                    if(s.charAt(i) == '}'){
-                        if(stack.peek() != '{'){return false;}
-                        stack.pop(); 
-                    }
-                }
-                catch(Exception e){
-                    return result;
-                }
+        for (char c : chars) {
+            switch (c) {
+                case '(':
+                case '[':
+                case '{':
+                    stack[++top] = c;
+                    break;
+                
+                case ')':
+                    if (top == -1 || stack[top--] != '(') return false;
+                    break;
+                case ']':
+                    if (top == -1 || stack[top--] != '[') return false;
+                    break;
+                case '}':
+                    if (top == -1 || stack[top--] != '{') return false;
+                    break;
             }
         }
-        result = stack.isEmpty();
-        return result;
+        return top == -1;
     }
 }
