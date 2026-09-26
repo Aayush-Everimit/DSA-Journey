@@ -1,40 +1,38 @@
-import java.util.Stack;
-
 class Solution {
     public int calPoints(String[] operations) {
-        Stack<Integer> stack = new Stack<>();
-        
-        for(int i = 0 ; i < operations.length ; i++){
-           
-            if(!operations[i].equals("C") && !operations[i].equals("D") && !operations[i].equals("+")){
-                stack.push(Integer.parseInt(operations[i]));
+        int[] stack = new int[operations.length];
+        int top = -1;
+        int totalSum = 0; 
+
+        for (String op : operations) {
+            char c = op.charAt(0);
+            
+            if ((c == '-' || Character.isDigit(c)) && op.length() > 0) {
+                int value = Integer.parseInt(op);
+                stack[++top] = value;
+                totalSum += value;
+                continue;
             }
-            if(operations[i].equals("C") && !stack.isEmpty()){
-                stack.pop();
-            }
-            if(operations[i].equals("D")){
-                if(!stack.isEmpty()) {
-                    stack.push(2 * stack.peek());
-                }
-            }
-            if(operations[i].equals("+")){
-                if (stack.size() >= 2) {
-                    int prev1 = stack.pop();
-                    int prev2 = stack.pop(); 
-                    stack.push(prev2); 
-                    stack.push(prev1); 
-                    stack.push(prev1 + prev2); 
-                } else if (stack.size() == 1) {
-                    int prev1 = stack.peek();
-                    stack.push(prev1);
-                }
+
+            switch (c) {
+                case 'C':
+                    totalSum -= stack[top--];
+                    break;
+                    
+                case 'D':
+                    int doubleValue = 2 * stack[top];
+                    stack[++top] = doubleValue;
+                    totalSum += doubleValue;
+                    break;
+                    
+                case '+':
+                    int plusValue = stack[top] + stack[top - 1];
+                    stack[++top] = plusValue;
+                    totalSum += plusValue;
+                    break;
             }
         }
         
-        int result = 0;
-        for(int i : stack){
-            result += i;
-        }
-        return result;
+        return totalSum;
     }
 }
