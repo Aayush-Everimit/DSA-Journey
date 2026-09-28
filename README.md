@@ -151,6 +151,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
@@ -250,6 +251,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
