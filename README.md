@@ -34,6 +34,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
 ## Two Pointers
@@ -77,6 +78,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0189-rotate-array) |
@@ -251,6 +253,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
