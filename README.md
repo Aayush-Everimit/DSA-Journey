@@ -34,6 +34,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
@@ -72,6 +73,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0027-remove-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0088-merge-sorted-array) |
@@ -204,6 +206,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
