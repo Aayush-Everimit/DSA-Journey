@@ -14,28 +14,26 @@ class Solution
             }
             else if(!stack.isEmpty() && stack.peek() >= 0 && num < 0 ) {
                 int currentNum = num; 
-                boolean destroyed = false; // Tracks if the current incoming asteroid explodes
+                boolean destroyed = false; 
                 recheck = false; 
                 
                 do {
                     int top = stack.peek();
                     
                     if (Math.abs(currentNum) > Math.abs(top)) {
-                        stack.pop(); // Top explodes.
-                        // Only recheck if the stack isn't empty AND the next top is positive
+                        stack.pop();
+                        
                         recheck = !stack.isEmpty() && stack.peek() >= 0; 
                     } else if (Math.abs(currentNum) == Math.abs(top)) {
-                        stack.pop(); // Both explode
+                        stack.pop(); 
                         destroyed = true; 
                         recheck = false; 
                     } else {
-                        destroyed = true; // Incoming asteroid explodes, top survives
+                        destroyed = true; 
                         recheck = false; 
                     }
                 }
                 while(recheck);      
-                
-                // If the incoming negative asteroid cleared the obstacles, push it
                 if (!destroyed) {
                     stack.push(currentNum);
                 }
