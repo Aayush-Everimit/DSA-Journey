@@ -95,6 +95,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
+| [0735-asteroid-collision](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## Sorting
@@ -263,6 +264,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0225-implement-stack-using-queues](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -285,6 +287,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
