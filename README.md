@@ -96,6 +96,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## Sorting
@@ -265,10 +266,12 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0232-implement-queue-using-stacks](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
