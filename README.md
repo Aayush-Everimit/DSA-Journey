@@ -73,6 +73,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
@@ -305,4 +306,5 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
