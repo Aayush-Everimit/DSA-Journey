@@ -5,7 +5,6 @@ class Solution
     backtrack(n, 0, 0, new StringBuilder(), result);
     return result;
 }
-
 private void backtrack(int max , int open , int close , StringBuilder current, List<String> result){
     if(current.length() == max*2){
         result.add(current.toString());
@@ -20,6 +19,5 @@ private void backtrack(int max , int open , int close , StringBuilder current, L
         current.append(")");
         backtrack(max, open, close+1, current, result);
         current.deleteCharAt(current.length() - 1);
-    }
-}
+    }}
 }
