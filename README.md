@@ -158,6 +158,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 ## Design
@@ -307,4 +308,8 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0039-combination-sum) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
