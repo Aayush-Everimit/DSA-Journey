@@ -102,6 +102,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## Sorting
@@ -119,6 +120,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0347-top-k-frequent-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0658-find-k-closest-elements) |
+| [0853-car-fleet](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0917-boats-to-save-people) |
 ## String
@@ -278,12 +280,14 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0682-baseball-game](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
