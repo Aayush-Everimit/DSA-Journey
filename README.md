@@ -131,6 +131,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0020-valid-parentheses](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0344-reverse-string) |
@@ -273,6 +274,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
