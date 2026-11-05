@@ -38,6 +38,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
@@ -236,6 +237,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -330,4 +332,8 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0901-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
