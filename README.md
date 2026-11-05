@@ -33,6 +33,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0594-longest-harmonious-subsequence](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0706-design-hashmap) |
+| [3945-digit-frequency-score](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ I am actively mastering **Data Structures & Algorithms** using Java, focusing on
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/0202-happy-number) |
+| [3945-digit-frequency-score](https://github.com/Aayush-Everimit/DSA-Journey/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
